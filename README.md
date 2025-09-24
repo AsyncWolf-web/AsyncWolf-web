@@ -1,4 +1,4 @@
-<!--<h1 align="center">Hello, I'm Zlatomir Peshev!</h1>-->
+<h1 align="center">Hello, I'm Zlatomir Peshev!</h1>
 
 <h2 align="center">「📝」About Me:</h2>
 
